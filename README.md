@@ -11,5 +11,5 @@ In this project I used Python Pandas, MatPlotLib and Seaborn, as well as my anal
 
 You can see some data visualisation examples here:
 ![heightbar2k](https://github.com/dimitriousss/nba2k/assets/136066480/7f7ec0cc-776b-4b9a-9f37-dadf9f1fb646)
-![Example 2: Salary vs Rating](https://github.com/[dimitriousss]/[nba2k]/blob/[main]/linegraph2k.png?raw=true)
-![Example 3: Nationality Distribution](https://github.com/[dimitriousss]/[nba2k]/blob/[main]/pies2k.png?raw=true)
+![linegraph2k](https://github.com/dimitriousss/nba2k/assets/136066480/55d85e8a-4dcc-4287-8e3a-5428f8faa7fd)
+![pies2k](https://github.com/dimitriousss/nba2k/assets/136066480/732fd48f-8f64-4214-9f86-18869d8448a9)
