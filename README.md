@@ -9,3 +9,7 @@ In this project I used Python Pandas, MatPlotLib and Seaborn, as well as my anal
 * MatPoltLib and Seaborn EDA and Visualisations: using cleaned data and information about the correlated measures to plot and see the information from a different point of view
 * Project Conclusions: personal conclusions describing the analysis in a form of very short paragraphs for a viewer of a project to understand the findings of each part
 
+You can see some data visualisation examples here:
+![Example 1: Average Height Per Position](https://github.com/[dimitriousss]/[nba2k]/blob/[main]/heightbar2k.png?raw=true)
+![Example 2: Salary vs Rating](https://github.com/[dimitriousss]/[nba2k]/blob/[main]/linegraph2k.png?raw=true)
+![Example 3: Nationality Distribution](https://github.com/[dimitriousss]/[nba2k]/blob/[main]/pies2k.png?raw=true)
