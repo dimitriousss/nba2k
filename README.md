@@ -34,6 +34,4 @@ Data Analysis-Based Conclusions:
 - Seventh swarm plot depicts the relationship of is_american and height, which was discovered in the correlation analysis. It shows that non-Americans have a tendency of being taller than Americans in the NBA (see correlation conclusion number 3).
 - Eighth and last pair of graphs shows the relationship of is_american and height, but from another perspective. As said before (see correlation conclusion number 3 and analysis conclusion number 7), foreign players tend to be taller, and, theoretically, more frequently play forward and center positions. These two plots prove the theoretical assumption I made. There are more foreign centers than American centers, even though only a quarter of all players are from another countries (see analysis conclusion number 3). There is a ton of non-American guards, but there are more forwards from other countries, whereas Americans have the opposite situation.
 
-Known issues: SettingWithCopyWarning: A value is trying to be set on a copy of a slice from a DataFrame. Will be fixed shortly
-
 @ Dmytro Kvasha
